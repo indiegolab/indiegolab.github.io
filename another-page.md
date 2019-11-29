@@ -1,11 +1,9 @@
 ---
 layout: default
 title: 어나더레벨
-description: This is just another page
+description: 이것은 어나더레벨이다
 ---
 
-## Welcome to another page
-
-_yay_
+**야호**
 
 [back](./)
