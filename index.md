@@ -4,8 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](.//another-page.html).
-[링크2](.//_posts/2020-05-02-first_post.md)
+[Link to another page](./_posts/another-page.html).
+[링크2](./_posts/2020-05-02-first_post.md)
 
 # 헤더1
 
